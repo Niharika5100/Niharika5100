@@ -1,4 +1,4 @@
-### Hey, I'm Niharika
+### Hey, I'm Niha!
 
 - girl in tech, building RAG pipelines and tracking satellites
 - currently teaching myself AWS, one deploy at a time
