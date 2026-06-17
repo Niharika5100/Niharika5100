@@ -1,4 +1,4 @@
-### Hey, I'm [Niharika]
+### Hey, I'm Niharika
 
 - girl in tech, building RAG pipelines and tracking satellites
 - currently teaching myself AWS, one deploy at a time
@@ -6,9 +6,11 @@
 
 ---
 
-**[Pramana]https://github.com/Niharika5100/pramana** → ask a defense procurement document a question, get an answer it can prove
+**[Pramana](https://github.com/Niharika5100/pramana)** → ask a defense procurement document a question, get an answer it can prove
+
 **[Artha](https://github.com/Niharika5100/artha)** → bank filings go in, risk scores come out, nobody touches it in between
-**[Astra]https://github.com/Niharika5100/astra** → 14,000+ satellites, one KDTree, zero excuses for a missed collision
+
+**[Astra](https://github.com/Niharika5100/astra)** → 14,000+ satellites, one KDTree, zero excuses for a missed collision
 
 ---
 
